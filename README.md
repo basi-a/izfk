@@ -1,7 +1,7 @@
 # izfk
 Install ZeroTier for Kali, Fixed the OpenSSL 1.1 dependency issue
 # Why write this script?
-To get [her](https://jia-a.top) to join my LAN, connect to my board, and have her use my board as a range for penetration testing
+To make it easy for [her](https://jia-a.top) to join my LAN and connect to my board, she can use my board as a range for penetration testing
 # So how to use it?
 ## Change the value of this variable in the script
 ```bash
